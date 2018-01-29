@@ -1,0 +1,201 @@
+{
+  "Lunes": [
+    {
+      "horario": "08:00 - 09:00",
+      "programa": "PACOMENZAR EL DÍA",
+      "conductor": "PACO MAYA / KARLA ESCAMILLA"
+    },
+    {
+      "horario": "16:00 - 17:00",
+      "programa": "DEPORTEANDO",
+      "conductor": "VIRIDIANA VELÁZQUEZ"
+    },
+    {
+      "horario": "17:00 - 18:00",
+      "programa": "LOS INMAMABLES",
+      "conductor": "LOS INMAMABLES"
+    },
+    {
+      "horario": "20:00 - 21:00",
+      "programa": "EL SHOW DE DON MEDORIO",
+      "conductor": "FRANCO ESCAMILLA / SERGIO MEJORADO / RUBESTEL FLORES"
+    }
+  ],
+  "Martes": [
+    {
+      "horario": "08:00 - 09:00",
+      "programa": "PACOMENZAR EL DÍA",
+      "conductor": "PACO MAYA / KARLA ESCAMILLA"
+    },
+    {
+      "horario": "12:00 - 13:00",
+      "programa": "LA HORA FELIZ",
+      "conductor": "HUGO (EL COJO FELIZ)"
+    },
+    {
+      "horario": "17:00 - 18:00",
+      "programa": "EL FIERROTE DE METAL",
+      "conductor": "PONCHO DE ANDA / CARLOS VILO"
+    },
+    {
+      "horario": "18:00 - 19:00",
+      "programa": "ANTES DE QUE COBREN CARO",
+      "conductor": "FRANCO ESCAMILLA"
+    },
+    {
+      "horario": "19:00 - 20:00",
+      "programa": "LA ZAPATILLA DEL ROCK",
+      "conductor": "CLAUDIA ZAPATA"
+    },
+    {
+      "horario": "20:00 - 21:00",
+      "programa": "CHOQUE DE IDEOTAS",
+      "conductor": "PONCHO DE ANDA / SERGIO MEJORADO"
+    },
+    {
+      "horario": "22:00 - 23:00",
+      "programa": "LOS AMOS DEL UNIVERSO",
+      "conductor": "FRANCO ESCAMILLA / IVAN (LA MOLE)"
+    }
+  ],
+  "Miercoles": [
+    {
+      "horario": "08:00 - 09:00",
+      "programa": "PACOMENZAR EL DÍA",
+      "conductor": "PACO MAYA / KARLA ESCAMILLA"
+    },
+    {
+      "horario": "16:00 - 17:00",
+      "programa": "CHOQUE DE IDEOTAS",
+      "conductor": "PONCHO DE ANDA / SERGIO MEJORADO"
+    },
+    {
+      "horario": "18:00 - 19:00",
+      "programa": "RUDO EN TU IDIOMA",
+      "conductor": "ERICK (RUDO) FARÍAS"
+    },
+    {
+      "horario": "20:00 - 21:00",
+      "programa": "MORAPEANDO",
+      "conductor": "GUSTAVO MORALES / MAGO YAMBO"
+    },
+    {
+      "horario": "21:00 - 22:00",
+      "programa": "REPÓRTENSE RAZA",
+      "conductor": "CHRISTIAN MEZA"
+    },
+    {
+      "horario": "22:00 - 23:00",
+      "programa": "SKAMILLA",
+      "conductor": "FRANCO ESCAMILLA"
+    },
+    {
+      "horario": "23:30 - 02:00",
+      "programa": "MIEDOSOS PERO SABROSOS",
+      "conductor": "FRANCO ESCAMILLA / PACO MAYA"
+    }
+  ],
+  "Jueves": [
+    {
+      "horario": "08:00 - 09:00",
+      "programa": "PACOMENZAR EL DÍA",
+      "conductor": "PACO MAYA / KARLA ESCAMILLA"
+    },
+    {
+      "horario": "17:00 - 18:00",
+      "programa": "CUBRO CRIMSON",
+      "conductor": "LOLO ARREDONDO"
+    },
+    {
+      "horario": "18:00 - 19:00",
+      "programa": "ZONA BACKLINE (REPETICIÓN)",
+      "conductor": " "
+    },
+    {
+      "horario": "19:00 - 20:00",
+      "programa": "LA ZAPATILLA DEL ROCK",
+      "conductor": "CLAUDIA ZAPATA"
+    },
+    {
+      "horario": "20:00 - 21:00",
+      "programa": "DETRÁS DE LA CANCIÓN (REPETICIÓN)",
+      "conductor": "IRÁN ZARCO"
+    },
+    {
+      "horario": "21:00 - 22:00",
+      "programa": "SIN SEXURA",
+      "conductor": "ROCIO GARCÍA / IMELDA ESCOBAR"
+    }
+  ],
+  "Viernes": [
+    {
+      "horario": "08:00 - 09:00",
+      "programa": "PACOMENZAR EL DÍA",
+      "conductor": "PACO MAYA / KARLA ESCAMILLA"
+    },
+    {
+      "horario": "17:00 - 18:00",
+      "programa": "LOS INMAMABLES",
+      "conductor": "LOS INMAMABLES"
+    },
+    {
+      "horario": "18:00 - 19:00",
+      "programa": "PUNTO DE VISTA",
+      "conductor": "ALEXIS (OJITOS DE HUEVO)"
+    },
+    {
+      "horario": "20:00 - 21:00",
+      "programa": "MORAPEANDO",
+      "conductor": "GUSTAVO MORALES / MAGO YAMBO"
+    },
+    {
+      "horario": "21:00 - 22:00",
+      "programa": "LOS INADAPTADOS DEL EXTRANJERO",
+      "conductor": " "
+    }
+  ],
+  "Sabado": [
+    {
+      "horario": "16:00 - 17:00",
+      "programa": "BIENESTAR CON CHUY",
+      "conductor": "DR. JESÚS GONZÁLEZ"
+    },
+    {
+      "horario": "17:00 - 18:00",
+      "programa": "LA BANDA SONORA",
+      "conductor": "GUS PROAL"
+    },
+    {
+      "horario": "18:00 - 19:00",
+      "programa": "COUNTRY WEEKEND",
+      "conductor": "ERICK (RUDO) FARÍAS"
+    },
+    {
+      "horario": "19:00 - 20:00",
+      "programa": "ZONA BACKLINE",
+      "conductor": " "
+    }
+  ],
+  "Domingo": [
+    {
+      "horario": "21:00 - 22:00",
+      "programa": "DETRÁS DE LA CANCIÓN",
+      "conductor": "IRÁN ZARCO"
+    },
+    {
+      "horario": "22:00 - 23:00",
+      "programa": "BALADAS MEJORADAS",
+      "conductor": "SERGIO MEJORADO"
+    },
+    {
+      "horario": "23:00 - 00:00",
+      "programa": "SIMPLEMENTE TROVA",
+      "conductor": "FRANCO ESCAMILLA"
+    },
+    {
+      "horario": "00:00 - 01:00",
+      "programa": "HISTORIAS DE UN BAR",
+      "conductor": "BRYAN ANDRADE"
+    }
+  ]
+}
