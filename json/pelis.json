@@ -1,9 +1,6 @@
-{
-  "response": 
-    {
-      "titulo": "La sirenita",
-      "image": "https://raw.githubusercontent.com/betojsc/json-Horario/master/json/lasirenita.jpg",
-      "link": "http://578304cbe642.sn.mynetname.net/images/media/5a2f1030b6761bcc958c2b3655afbb4e_1415066326.m4",
-      "ano": 1999
-    }
-}
+	{
+		"titulo": "La sirenita",
+		"image": "https://raw.githubusercontent.com/betojsc/json-Horario/master/json/lasirenita.jpg",
+		"link": "http://578304cbe642.sn.mynetname.net/images/media/5a2f1030b6761bcc958c2b3655afbb4e_1415066326.m4",
+		"ano": 1999
+	}
