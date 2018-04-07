@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(images/Varus.jpg);
+  background: center no-repeat url(https://raw.githubusercontent.com/betojsc/json-Horario/master/css/FB_IMG_1506894198072.jpg);
 }
 
 .logo {
-  background-image: url(images/Varus.jpg);
+  background-image: url(https://raw.githubusercontent.com/betojsc/json-Horario/master/css/Varus.jpg);
 }
 
 .progressBar {
@@ -11,14 +11,10 @@
 }
 
 .splash {
-  background-image: url(splash.png);
+  background-image: url(https://raw.githubusercontent.com/betojsc/json-Horario/master/css/ashe.jpg);
 }
 
 .watermark {
-  background-image: url(watermark.png);
+  background-image: url(https://raw.githubusercontent.com/betojsc/json-Horario/master/css/ic_launcher-web.png);
   background-size: 57px 57px;
-}
-
-h3 {
-	color: #ed0f0f;
 }
