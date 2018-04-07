@@ -1,0 +1,24 @@
+.background {
+  background: center no-repeat url(images/Varus.jpg);
+}
+
+.logo {
+  background-image: url(images/Varus.jpg);
+}
+
+.progressBar {
+  background-color: rgb(255, 0, 0);
+}
+
+.splash {
+  background-image: url(splash.png);
+}
+
+.watermark {
+  background-image: url(watermark.png);
+  background-size: 57px 57px;
+}
+
+h3 {
+	color: #ed0f0f;
+}
