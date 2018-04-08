@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(https://raw.githubusercontent.com/betojsc/json-Horario/master/css/FB_IMG_1506894198072.jpg);
+  background-color: rgb(0,0,0);
 }
 
 .logo {
-  background-image: url(https://raw.githubusercontent.com/betojsc/json-Horario/master/css/Varus.jpg);
+  background-image: url(https://raw.githubusercontent.com/betojsc/json-Horario/master/css/maya_tv_ic_launcher-web.png);
 }
 
 .progressBar {
