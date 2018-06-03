@@ -1,0 +1,30 @@
+
+	"categories": [{
+			"categoria": "accion"
+		},
+		{
+			"categoria": "anime"
+		},
+		{
+			"categoria": "terror"
+		},
+		{
+			"categoria": "amor"
+		},
+		{
+			"categoria": "comedia"
+		},
+		{
+			"categoria": "ciencia ficcion y fantasia"
+		},
+		{
+			"categoria": "thrillers"
+		},
+		{
+			"categoria": "aventura"
+		},
+		{
+			"categoria": "drama"
+		}
+	]
+}
