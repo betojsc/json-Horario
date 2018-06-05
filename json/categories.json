@@ -1,21 +1,21 @@
 {
-+	 " resultados " : [{
-+		 " categoria " : " accion "
-+}, {
-+		 " categoria " : " anime "
-+}, {
-+		 " categoria " : " terror "
-+}, {
-+		 " categoria " : " amor "
-+}, {
-+		 " categoria " : " comedia "
-+}, {
-+		 " categoria " : " ciencia ficción y fantasía "
-+}, {
-+		 " categoria " : " thrillers "
-+}, {
-+		 " categoria " : " aventura "
-+}, {
-+		 " categoria " : " drama "
-+}]
+	"results": [{
+		"categoria": "accion"
+	}, {
+		"categoria": "anime"
+	}, {
+		"categoria": "terror"
+	}, {
+		"categoria": "amor"
+	}, {
+		"categoria": "comedia"
+	}, {
+		"categoria": "ciencia ficcion y fantasia"
+	}, {
+		"categoria": "thrillers"
+	}, {
+		"categoria": "aventura"
+	}, {
+		"categoria": "drama"
+	}]
  }
